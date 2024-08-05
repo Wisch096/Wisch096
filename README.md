@@ -1,8 +1,9 @@
 # Hi there, I'm Matheus! 👋🏻
 
-👀 Sou obsecado por conhecimento, pra mim qualquer tipo de ensinamento ou informação é valido.
-🌱 No momento estou focado em me especializar no C# e no ambiente .NET.
-⚙ Trabalho hoje como FullStack
+- 👀 Sou obsecado por conhecimento, pra mim qualquer tipo de ensinamento ou informação é valido.
+- 🌱 No momento estou focado em aprender Python & Rust.
+- ⚙ Trabalho hoje como FullStack
+<br />
 
 <img align="left" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
