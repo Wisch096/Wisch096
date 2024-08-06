@@ -1,7 +1,7 @@
-# Hi there, I'm Matheus! 👋🏻
+# Olá, eu sou o Matheus! 👋🏻
 
 - 👀 Sou obsecado por conhecimento, pra mim qualquer tipo de ensinamento ou informação é valido.
-- 🌱 No momento estou focado em aprender Python & Rust.
+- 🌱 No momento estou focado em me especializar no c# e em todo o ambiente .net.
 - ⚙ Trabalho hoje como FullStack
 
 
