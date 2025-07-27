@@ -2,7 +2,7 @@
 
 - 👀 Sou obsecado por conhecimento, pra mim qualquer tipo de ensinamento ou informação é valido.
 - 🌱 No momento estou focado em me especializar no c# e em todo o ambiente .net.
-- ⚙ Trabalho hoje como FullStack
+- ⚙ Trabalho hoje como Backend
 
 
 <img align="left" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
